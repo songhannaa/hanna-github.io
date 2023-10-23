@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hanna-github.io/static/css/main.073c9b0a.css",
+    "main.js": "/hanna-github.io/static/js/main.3d1611a1.js",
+    "static/js/787.258a2f55.chunk.js": "/hanna-github.io/static/js/787.258a2f55.chunk.js",
+    "index.html": "/hanna-github.io/index.html",
+    "main.073c9b0a.css.map": "/hanna-github.io/static/css/main.073c9b0a.css.map",
+    "main.3d1611a1.js.map": "/hanna-github.io/static/js/main.3d1611a1.js.map",
+    "787.258a2f55.chunk.js.map": "/hanna-github.io/static/js/787.258a2f55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3d1611a1.js"
+  ]
+}
